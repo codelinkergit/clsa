@@ -1,0 +1,46 @@
+{
+  "name": "Default Main Menu",
+  "design": "DefMainMenu",
+  "show_search": true,
+  "show_notifications": true,
+  "language_switch": true,
+  "dark_mode_switch": true,
+  "sidebar_toggle": true,
+  "menu_items": [
+    {
+      "level": 1,
+      "type": "custom_link",
+      "link_text": "Home",
+      "link_url": ".",
+      "icon": "bi bi-house-door"
+    },
+    {
+      "level": 1,
+      "type": "custom_link",
+      "link_text": "Services",
+      "link_url": "services",
+      "icon": "bi bi-code-square"
+    },
+    {
+      "level": 1,
+      "type": "custom_link",
+      "link_text": "Contact",
+      "link_url": "contact",
+      "icon": "bi bi-envelop-plus"
+    },
+    {
+      "level": 1,
+      "type": "custom_link",
+      "link_text": "About",
+      "link_url": "qa",
+      "icon": "bi bi-door-open-fill"
+    },
+    {
+      "level": 1,
+      "type": "custom_link",
+      "link_text": "Blog",
+      "link_url": "Blog",
+      "icon": "bi bi-pencil"
+    }
+  ]
+}

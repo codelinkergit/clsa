@@ -1,0 +1,12 @@
+{
+  "site_name": "Codelinker",
+  "site_moto": "Mafia Developers",
+  "site_logo": "assets/logo.jpg",
+  "site_favicon": "assets/favicon.png",
+  "top_menu": null,
+  "main_menu": 1,
+  "footer_menu": null,
+  "sidebar": null,
+  "default_home": null,
+  "maintenance_mode": false
+}
