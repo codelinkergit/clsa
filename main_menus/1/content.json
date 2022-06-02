@@ -39,7 +39,7 @@
       "level": 1,
       "type": "custom_link",
       "link_text": "Blog",
-      "link_url": "Blog",
+      "link_url": "blog",
       "icon": "bi bi-pencil"
     }
   ]
