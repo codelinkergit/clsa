@@ -1,0 +1,62 @@
+{
+  "id": 5,
+  "name": "Homepage About Section",
+  "type": "about_sections",
+  "design": "AboutThree",
+  "content": {
+    "title": "More About Us",
+    "sub_title": "Who we are",
+    "about_image": "assets/cl-about.webp",
+    "button_text": "",
+    "button_link": "",
+    "paragraph": [
+      {
+        "type": "text",
+        "title": "Who we are",
+        "content": "Codelinker is a custom software development company in Bangladesh. We have extensive experience in many diverse areas of both software development and IT services. Our experienced staff of professionals has worked with a wide array of platforms, languages, and tools in the course of our various projects. We provide our clients transformative solution. We see our clients as partners in achieving our dreams."
+      },
+      {
+        "type": "list",
+        "title": "Our Industries",
+        "content": [
+          {
+            "image": "",
+            "icon": "fas fa-computer-classic",
+            "title": "",
+            "text": "Software"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-university",
+            "title": "",
+            "text": "Education"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-prescription",
+            "title": "",
+            "text": "Pharma"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-cart-arrow-down",
+            "title": "",
+            "text": "Ecommerce"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-house",
+            "title": "",
+            "text": "Real Estate"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-credit-card-blank",
+            "title": "",
+            "text": "Banking and Finance"
+          }
+        ]
+      }
+    ]
+  }
+}

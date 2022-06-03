@@ -11,7 +11,7 @@
     },
     {
       "type": "section",
-      "id": 2
+      "id": 3
     },
     {
       "type": "dividers",
@@ -20,7 +20,15 @@
     },
     {
       "type": "section",
-      "id": 3
+      "id": 2
+    },
+    {
+      "type": "section",
+      "id": 4
+    },
+    {
+      "type": "section",
+      "id": 5
     }
   ]
 }

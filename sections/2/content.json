@@ -4,80 +4,80 @@
   "type": "fns_sections",
   "design": "FeaturesFour",
   "content": {
-    "title": "",
-    "sub_title": "",
-    "paragraph": "",
+    "title": "CORE SOLUTIONS OF CODELINKER",
+    "sub_title": "Some of our awesome solutions & features.",
+    "paragraph": "Our dev team consistently developing sophisticated online systems & solutions so that you can start these systems right away. Below are some glimpse of the features & solutions we've developed so far.",
     "features": [
       {
         "type": "custom",
-        "title": "",
+        "title": "AWS Cloud services",
         "description": "",
         "image": "",
-        "icon": "",
-        "color": "",
+        "icon": "fab fa-aws",
+        "color": "#D4A373",
         "feature_link": ""
       },
       {
         "type": "custom",
-        "title": "",
+        "title": "HR Management System",
         "description": "",
         "image": "",
-        "icon": "",
-        "color": "",
+        "icon": "fas fa-users",
+        "color": "#FFB703",
         "feature_link": ""
       },
       {
         "type": "custom",
-        "title": "",
+        "title": "E-Billing",
         "description": "",
         "image": "",
-        "icon": "",
-        "color": "",
+        "icon": "fas fa-wallet",
+        "color": "#E76F51",
         "feature_link": ""
       },
       {
         "type": "custom",
-        "title": "",
+        "title": "Project Management System",
         "description": "",
         "image": "",
-        "icon": "",
-        "color": "",
+        "icon": "fas fa-tasks",
+        "color": "#283618",
         "feature_link": ""
       },
       {
         "type": "custom",
-        "title": "",
+        "title": "POS / Store Manager",
         "description": "",
         "image": "",
-        "icon": "",
-        "color": "",
+        "icon": "fas fa-cart-plus",
+        "color": "#2a9d8f",
         "feature_link": ""
       },
       {
         "type": "custom",
-        "title": "",
+        "title": "Learning Management System",
         "description": "",
         "image": "",
-        "icon": "",
-        "color": "",
+        "icon": "fas fa-school",
+        "color": "#d90429",
         "feature_link": ""
       },
       {
         "type": "custom",
-        "title": "",
+        "title": "Content Management System",
         "description": "",
         "image": "",
-        "icon": "",
-        "color": "",
+        "icon": "fas fa-desktop",
+        "color": "#344e41",
         "feature_link": ""
       },
       {
         "type": "custom",
-        "title": "",
+        "title": "Land Management System",
         "description": "",
         "image": "",
-        "icon": "",
-        "color": "",
+        "icon": "fas fa-landmark",
+        "color": "#1d3557",
         "feature_link": ""
       }
     ]
