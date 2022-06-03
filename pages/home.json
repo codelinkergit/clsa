@@ -8,6 +8,10 @@
     {
       "type": "section",
       "id": 1
+    },
+    {
+      "type": "section",
+      "id": 2
     }
   ]
 }
