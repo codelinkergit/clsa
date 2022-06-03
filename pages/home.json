@@ -4,5 +4,10 @@
   "title": "Home",
   "description": "Codelinker Pvt. Ltd. Dhaka, Bangladesh",
   "featured_image": "",
-  "content": []
+  "content": [
+    {
+      "type": "section",
+      "id": 1
+    }
+  ]
 }
