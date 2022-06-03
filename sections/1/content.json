@@ -3,5 +3,13 @@
   "name": "Homepage Hero Section",
   "type": "hero_sections",
   "design": "HeroFive",
-  "content": {}
+  "content": {
+    "type": "custom",
+    "title": "Codelinker Pvt. Ltd.",
+    "highlight_text": "Your business infrastructure on secure cloud.",
+    "paragraph": "Multi languages (Python, PHP, C#, Rust, Ruby, Go and Javascript) supported software development team to provide your required solution.",
+    "bg_image": "assets/cl-hero.webp",
+    "button_text": "Check our services",
+    "button_link": "services"
+  }
 }

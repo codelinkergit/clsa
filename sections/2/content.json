@@ -3,5 +3,83 @@
   "name": "Homepage Features Section",
   "type": "fns_sections",
   "design": "FeaturesFour",
-  "content": {}
+  "content": {
+    "title": "",
+    "sub_title": "",
+    "paragraph": "",
+    "features": [
+      {
+        "type": "custom",
+        "title": "",
+        "description": "",
+        "image": "",
+        "icon": "",
+        "color": "",
+        "feature_link": ""
+      },
+      {
+        "type": "custom",
+        "title": "",
+        "description": "",
+        "image": "",
+        "icon": "",
+        "color": "",
+        "feature_link": ""
+      },
+      {
+        "type": "custom",
+        "title": "",
+        "description": "",
+        "image": "",
+        "icon": "",
+        "color": "",
+        "feature_link": ""
+      },
+      {
+        "type": "custom",
+        "title": "",
+        "description": "",
+        "image": "",
+        "icon": "",
+        "color": "",
+        "feature_link": ""
+      },
+      {
+        "type": "custom",
+        "title": "",
+        "description": "",
+        "image": "",
+        "icon": "",
+        "color": "",
+        "feature_link": ""
+      },
+      {
+        "type": "custom",
+        "title": "",
+        "description": "",
+        "image": "",
+        "icon": "",
+        "color": "",
+        "feature_link": ""
+      },
+      {
+        "type": "custom",
+        "title": "",
+        "description": "",
+        "image": "",
+        "icon": "",
+        "color": "",
+        "feature_link": ""
+      },
+      {
+        "type": "custom",
+        "title": "",
+        "description": "",
+        "image": "",
+        "icon": "",
+        "color": "",
+        "feature_link": ""
+      }
+    ]
+  }
 }
