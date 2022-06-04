@@ -27,33 +27,45 @@
           },
           {
             "image": "",
-            "icon": "fas fa-browser",
+            "icon": "fas fa-tachometer",
             "title": "Content Management Systems",
-            "text": "Education"
+            "text": "Manage your own website<br />Change your own content<br />Add and remove pages<br />Blogging"
           },
           {
             "image": "",
             "icon": "fas fa-hdd",
             "title": "Domain & Hosting",
-            "text": "Pharma"
+            "text": "Registering Domain<br />Transfer Domain<br />Reliable web hosting<br />Powerful website, blog and ecommerce tools"
           },
           {
             "image": "",
             "icon": "fas fa-radiation",
             "title": "Motion & graphic design",
-            "text": "Ecommerce"
+            "text": "Web content design<br />User Interface Design<br />Industrial Design<br />Infographic<br />Motion & Animation"
           },
           {
             "image": "",
-            "icon": "fas fa-tv-retro",
+            "icon": "fas fa-archive",
             "title": "News & TV Archiving",
-            "text": "Real Estate"
+            "text": "TV News & Program<br />Talk-Show & Documentary<br />Newspaper & Articles"
           },
           {
             "image": "",
             "icon": "fas fa-mobile",
             "title": "Mobile Application",
-            "text": "Banking and Finance"
+            "text": "Customized applications<br />Powerful and scalable for any device<br />Android, iOS & Windows application"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-university",
+            "title": "IT Training",
+            "text": "Web content design<br />User Interface Design<br />Industrial Design<br />Infographic<br />Motion & Animation"
+          },
+          {
+            "image": "",
+            "icon": "far fa-print",
+            "title": "Hardware Networking",
+            "text": "Full Service Networking<br />Managed IT Technician<br />Computer & Networking<br />Accessory Supply"
           }
         ]
       }
