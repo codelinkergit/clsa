@@ -6,6 +6,9 @@
   "featured_image": "",
   "content": {
     "blog_repo": null,
-    "pagination": 20
+    "pagination": 20,
+    "list_design": "",
+    "grid_design": "",
+    "sidebar": ""
   }
 }

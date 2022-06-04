@@ -3,5 +3,8 @@
   "name": "Homepage Industries Section",
   "type": "tab_sections",
   "design": "TabSection",
-  "content": {}
+  "content": {
+    "background_image": "",
+    "background_color": ""
+  }
 }

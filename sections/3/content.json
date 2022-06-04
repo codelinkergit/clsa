@@ -9,6 +9,8 @@
     "about_image": "assets/cl-services.webp",
     "button_text": "See Details",
     "button_link": "services",
+    "background_image": "",
+    "background_color": "",
     "paragraph": [
       {
         "type": "text",
