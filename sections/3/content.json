@@ -3,5 +3,60 @@
   "name": "Homepage Services Section",
   "type": "about_sections",
   "design": "AboutFour",
-  "content": {}
+  "content": {
+    "title": "Our Services",
+    "sub_title": "Our development team is committed to providing you the best service.",
+    "about_image": "assets/cl-services.webp",
+    "button_text": "See Details",
+    "button_link": "services",
+    "paragraph": [
+      {
+        "type": "text",
+        "title": "Major services offered by us",
+        "content": "We offer various outstanding services with unique features. Some of them are listed below - "
+      },
+      {
+        "type": "list",
+        "title": "Our Industries",
+        "content": [
+          {
+            "image": "",
+            "icon": "fas fa-computer-classic",
+            "title": "Web Development",
+            "text": "High End Design\nBranding & Art Direction\nHTML/CSS Coding\nImplementing functionality\nUnlimited Revision Stage"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-university",
+            "title": "Content Management Systems",
+            "text": "Education"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-prescription",
+            "title": "Domain & Hosting",
+            "text": "Pharma"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-cart-arrow-down",
+            "title": "Motion & graphic design",
+            "text": "Ecommerce"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-house",
+            "title": "News & TV Archiving",
+            "text": "Real Estate"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-credit-card-blank",
+            "title": "Mobile Application",
+            "text": "Banking and Finance"
+          }
+        ]
+      }
+    ]
+  }
 }

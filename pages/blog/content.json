@@ -4,5 +4,8 @@
   "title": "Blog",
   "description": "Technical knowledge sharing & writings from Codelinker developers.",
   "featured_image": "",
-  "content": []
+  "content": {
+    "blog_repo": null,
+    "pagination": 20
+  }
 }
