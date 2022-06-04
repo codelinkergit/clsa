@@ -21,37 +21,37 @@
         "content": [
           {
             "image": "",
-            "icon": "fas fa-computer-classic",
+            "icon": "fas fa-code",
             "title": "Web Development",
             "text": "High End Design\nBranding & Art Direction\nHTML/CSS Coding\nImplementing functionality\nUnlimited Revision Stage"
           },
           {
             "image": "",
-            "icon": "fas fa-university",
+            "icon": "fas fa-browser",
             "title": "Content Management Systems",
             "text": "Education"
           },
           {
             "image": "",
-            "icon": "fas fa-prescription",
+            "icon": "fas fa-hdd",
             "title": "Domain & Hosting",
             "text": "Pharma"
           },
           {
             "image": "",
-            "icon": "fas fa-cart-arrow-down",
+            "icon": "fas fa-radiation",
             "title": "Motion & graphic design",
             "text": "Ecommerce"
           },
           {
             "image": "",
-            "icon": "fas fa-house",
+            "icon": "fas fa-tv-retro",
             "title": "News & TV Archiving",
             "text": "Real Estate"
           },
           {
             "image": "",
-            "icon": "fas fa-credit-card-blank",
+            "icon": "fas fa-mobile",
             "title": "Mobile Application",
             "text": "Banking and Finance"
           }
