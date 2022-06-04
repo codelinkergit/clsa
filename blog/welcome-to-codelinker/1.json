@@ -1,13 +1,17 @@
 {
   "id": 1,
+  "type": "post_pages",
+  "design": "DefPostPage",
   "title": "Welcome to Codelinker Pvt. Ltd.",
   "slug": "welcome-to-codelinker",
-  "date": "30-09-2019",
-  "status": "published",
   "description": "Established in 2019, Dhaka, Bangladesh with sophisticated software engineers.",
   "featured_image": "",
-  "primary_category": 1,
-  "additional_categories": "",
-  "tags": "1",
-  "author": 1
+  "content": {
+    "primary_category": 1,
+    "additional_categories": "",
+    "tags": "1",
+    "author": 1,
+    "date": "30-09-2019",
+    "status": "published"
+  }
 }

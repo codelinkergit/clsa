@@ -1,13 +1,17 @@
 {
-  "id": 1,
+  "id": 2,
+  "type": "post_pages",
+  "design": "DefPostPage",
   "title": "Codelinker CMS (Content Management System)",
   "slug": "cl-cms",
-  "date": "01-05-2021",
-  "status": "published",
   "description": "A content management system developed & maintained by Codelinker developers.",
   "featured_image": "",
-  "primary_category": 1,
-  "additional_categories": "",
-  "tags": "1",
-  "author": 1
+  "content": {
+    "primary_category": 1,
+    "additional_categories": "",
+    "tags": "1",
+    "author": 1,
+    "date": "01-05-2021",
+    "status": "published"
+  }
 }
