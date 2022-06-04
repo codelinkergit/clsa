@@ -27,7 +27,7 @@
           },
           {
             "image": "",
-            "icon": "fas fa-laptop-code",
+            "icon": "fas fa-tools",
             "title": "Content Management Systems",
             "text": "Manage your own website<br />Change your own content<br />Add and remove pages<br />Blogging"
           },
@@ -63,7 +63,7 @@
           },
           {
             "image": "",
-            "icon": "fas fa-print",
+            "icon": "fas fa-ethernet",
             "title": "Hardware Networking",
             "text": "Full Service Networking<br />Managed IT Technician<br />Computer & Networking<br />Accessory Supply"
           }
