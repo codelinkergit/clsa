@@ -1,6 +1,14 @@
----
-status: "published"
-sub_title: "CMS developed with wagtail, django & javascript."
----
 
+### Technologies
 
+- Wagtail
+- Django
+- Python
+- Javascript
+- Mysql / PostgreSQL / SQLite
+- Nginx / Apache
+- Docker
+- Github Actions
+
+CL CMS aims to provide fast, reliable & secure 
+both headless & fullstack contents.

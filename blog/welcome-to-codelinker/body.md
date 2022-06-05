@@ -1,7 +1,3 @@
----
-status: "published"
-sub_title: "Mafia developers leveraging your business by executing awesome technologies."
----
 
 Codelinker is a custom software development 
 company in Bangladesh. We have extensive 
