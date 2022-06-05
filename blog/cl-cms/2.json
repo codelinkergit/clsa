@@ -5,7 +5,7 @@
   "title": "Codelinker CMS (Content Management System)",
   "slug": "cl-cms",
   "description": "A content management system developed & maintained by Codelinker developers.",
-  "featured_image": "",
+  "featured_image": "assets/cl-cms.webp",
   "content": {
     "primary_category": 1,
     "additional_categories": "",
