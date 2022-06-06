@@ -4,11 +4,11 @@
   "type": "form_sections",
   "design": "DefForm",
   "content": {
-    "form_title": "",
-    "form_sub_title": "",
-    "form_submit_button_text": "",
-    "form_submit_action": "",
-    "form_submission_text": "",
+    "form_title": "Contact us",
+    "form_sub_title": "Please fill in the form below and we will contact you very soon. Your email address will not be published.",
+    "form_submit_button_text": "Send Message",
+    "form_submit_action": "#",
+    "form_submission_text": "Thank you for contacting us. You'll hear from us soon.",
     "form_fields": [
       {
         "type": "form_row",
