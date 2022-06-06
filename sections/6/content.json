@@ -4,9 +4,9 @@
   "type": "clients_sections",
   "design": "ClientTwo",
   "content": {
-    "title": "",
-    "sub_title": "",
-    "paragraph": "",
+    "title": "Technologies We Use",
+    "sub_title": "Technologies you can rely on.",
+    "paragraph": "Our development teams always tries to stay updated with latest technologies which ensures security, performance & fast CI/CD pipelines. Below are some of the technologies we provide our solutions with -",
     "background_image": "",
     "background_color": "",
     "clients": [
