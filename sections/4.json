@@ -1,10 +1,14 @@
 {
   "id": 3,
-  "name": "Homepage Industries Section",
-  "type": "tab_sections",
-  "design": "TabSection",
+  "name": "Homepage Skills Section",
+  "type": "skill_sections",
+  "design": "SkillTwo",
   "content": {
+    "title": "Our experience",
+    "sub_title": "We benchmarked our development skills in scales of global standards.",
+    "paragraph": "",
     "background_image": "",
-    "background_color": ""
+    "background_color": "",
+    "skills": []
   }
 }
