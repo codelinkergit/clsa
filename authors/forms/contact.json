@@ -1,0 +1,34 @@
+{
+  "type": "form_pages",
+  "design": "DefFormPage",
+  "content": [
+    {
+      "type": "row",
+      "css_class": "",
+      "items": [
+        {
+          "type": "text",
+          "label": "Full Name",
+          "name": "full_name",
+          "placeholder": "",
+          "css_class": "",
+          "required": false
+        },
+        {
+          "type": "select",
+          "label": "Query",
+          "name": "query",
+          "placeholder": "",
+          "css_class": "",
+          "required": false,
+          "options": {
+            "value1": "Value One",
+            "value2": "Value One",
+            "value3": "Value One",
+            "value4": "Value One"
+          }
+        }
+      ]
+    }
+  ]
+}
