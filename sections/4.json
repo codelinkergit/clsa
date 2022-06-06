@@ -9,6 +9,54 @@
     "paragraph": "",
     "background_image": "",
     "background_color": "",
-    "skills": []
+    "skills": [
+      {
+        "type": "col1",
+        "title": "",
+        "sub_title": "",
+        "items": [
+          {
+            "skill_title": "Software Development",
+            "skill_description": "",
+            "skill_score": 75,
+            "skill_image": "",
+            "skill_icon": "",
+            "skill_color": ""
+          },
+          {
+            "skill_title": "Web Application Development",
+            "skill_description": "",
+            "skill_score": 95,
+            "skill_image": "",
+            "skill_icon": "",
+            "skill_color": ""
+          },
+          {
+            "skill_title": "Android & iOS Application",
+            "skill_description": "",
+            "skill_score": 50,
+            "skill_image": "",
+            "skill_icon": "",
+            "skill_color": ""
+          },
+          {
+            "skill_title": "Networking & IT Solutions",
+            "skill_description": "",
+            "skill_score": 95,
+            "skill_image": "",
+            "skill_icon": "",
+            "skill_color": ""
+          },
+          {
+            "skill_title": "E-Commerce Solution",
+            "skill_description": "",
+            "skill_score": 80,
+            "skill_image": "",
+            "skill_icon": "",
+            "skill_color": ""
+          }
+        ]
+      }
+    ]
   }
 }
