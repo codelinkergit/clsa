@@ -1,0 +1,135 @@
+{
+  "id": 6,
+  "name": "Homepage Technologies Section",
+  "type": "clients_sections",
+  "design": "ClientTwo",
+  "content": {
+    "title": "",
+    "sub_title": "",
+    "paragraph": "",
+    "background_image": "",
+    "background_color": "",
+    "clients": [
+      {
+        "title": "Python",
+        "description": "",
+        "image": "assets/technologies/python-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "Django",
+        "description": "",
+        "image": "assets/technologies/django-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "Wagtail",
+        "description": "",
+        "image": "assets/technologies/wagtail-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "PHP",
+        "description": "",
+        "image": "assets/technologies/php-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "Node.js",
+        "description": "",
+        "image": "assets/technologies/nodejs-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "React JS",
+        "description": "",
+        "image": "assets/technologies/reactjs-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "Next.JS",
+        "description": "",
+        "image": "assets/technologies/nextjs-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "Svelte",
+        "description": "",
+        "image": "assets/technologies/svelte-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "MySQL",
+        "description": "",
+        "image": "assets/technologies/mysql-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "PostgreSQL",
+        "description": "",
+        "image": "assets/technologies/postgresql-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "SQLite",
+        "description": "",
+        "image": "assets/technologies/sqlite-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "AWS",
+        "description": "",
+        "image": "assets/technologies/aws-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "Cloudflare",
+        "description": "",
+        "image": "assets/technologies/cloudflare-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "Docker",
+        "description": "",
+        "image": "assets/technologies/docker-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      },
+      {
+        "title": "Github",
+        "description": "",
+        "image": "assets/technologies/github-logo.webp",
+        "icon": "",
+        "color": "",
+        "client_link": ""
+      }
+    ]
+  }
+}
