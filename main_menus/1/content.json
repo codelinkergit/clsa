@@ -32,7 +32,7 @@
       "level": 1,
       "type": "custom_link",
       "link_text": "About",
-      "link_url": "qa",
+      "link_url": "about-us",
       "icon": "bi bi-door-open-fill"
     },
     {
