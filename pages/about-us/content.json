@@ -4,5 +4,14 @@
   "title": "About",
   "description": "About Codelinker Pvt. Ltd. company",
   "featured_image": "",
-  "content": []
+  "content": [
+    {
+      "type": "section",
+      "id": 5
+    },
+    {
+      "type": "section",
+      "id": 4
+    }
+  ]
 }
