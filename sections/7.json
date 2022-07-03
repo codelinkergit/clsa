@@ -17,7 +17,7 @@
           {
             "type": "text",
             "label": "Full Name",
-            "name": "full_name",
+            "name": "Name",
             "required": true,
             "placeholder": "Please enter your full name.",
             "css_class": ""
@@ -25,7 +25,7 @@
           {
             "type": "email",
             "label": "Email",
-            "name": "email",
+            "name": "Email",
             "required": true,
             "placeholder": "Please enter your email.",
             "css_class": ""
@@ -39,7 +39,7 @@
           {
             "type": "textarea",
             "label": "Message",
-            "name": "message",
+            "name": "Message",
             "required": false,
             "placeholder": "Please enter your message.",
             "css_class": ""
