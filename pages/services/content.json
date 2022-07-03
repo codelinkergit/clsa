@@ -4,5 +4,28 @@
   "title": "Services",
   "description": "Codelinker Pvt. Ltd. official service offerings",
   "featured_image": "",
-  "content": []
+  "content": [
+    {
+      "type": "section",
+      "id": 3
+    },
+    {
+      "type": "dividers",
+      "design": "DefDivider",
+      "content": {}
+    },
+    {
+      "type": "section",
+      "id": 2
+    },
+    {
+      "type": "dividers",
+      "design": "DefDivider",
+      "content": {}
+    },
+    {
+      "type": "section",
+      "id": 6
+    }
+  ]
 }
