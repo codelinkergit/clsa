@@ -4,5 +4,10 @@
   "title": "Contact",
   "description": "Official contact information of Codelinker Pvt. Ltd.",
   "featured_image": "",
-  "content": []
+  "content": [
+    {
+      "type": "section",
+      "id": 7
+    }
+  ]
 }
