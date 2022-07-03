@@ -35,6 +35,11 @@
       "id": 4
     },
     {
+      "type": "dividers",
+      "design": "DefDivider",
+      "content": {}
+    },
+    {
       "type": "section",
       "id": 7
     }
