@@ -1,0 +1,51 @@
+{
+  "id": 6,
+  "name": "Homepage Counter Section",
+  "type": "count_sections",
+  "design": "DefCount",
+  "content": {
+    "title": "Our success counts",
+    "sub_title": "Cloud Servers, Total Projects, Domains being Served & Clients.",
+    "paragraph": "We are maintaining VPS servers on AWS, Upcloud, GCP etc platforms to ensure 24/7 uptime performance for numerous apps serving on numerous domains of our respected clients to boost their business run smooth online.",
+    "background_image": "",
+    "background_color": "",
+    "counts": [
+      {
+        "title": "VPS Servers",
+        "count": 6,
+        "description": "",
+        "image": "",
+        "icon": "fas fa-server",
+        "color": "",
+        "count_link": ""
+      },
+      {
+        "title": "Projects",
+        "count": 12,
+        "description": "",
+        "image": "",
+        "icon": "fas fa-browser",
+        "color": "",
+        "count_link": ""
+      },
+      {
+        "title": "Domains being served",
+        "count": 130,
+        "description": "",
+        "image": "",
+        "icon": "fas fa-hotel",
+        "color": "",
+        "count_link": ""
+      },
+      {
+        "title": "Happy Clients",
+        "count": 50,
+        "description": "",
+        "image": "",
+        "icon": "fas fa-smile",
+        "color": "",
+        "count_link": ""
+      }
+    ]
+  }
+}
