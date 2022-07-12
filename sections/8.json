@@ -16,7 +16,7 @@
         "description": "",
         "image": "",
         "icon": "fas fa-server",
-        "color": "",
+        "color": "#7BNYH6",
         "count_link": ""
       },
       {
@@ -24,8 +24,8 @@
         "count": 12,
         "description": "",
         "image": "",
-        "icon": "fas fa-browser",
-        "color": "",
+        "icon": "fas fa-desktop",
+        "color": "#LK75TR",
         "count_link": ""
       },
       {
@@ -34,7 +34,7 @@
         "description": "",
         "image": "",
         "icon": "fas fa-hotel",
-        "color": "",
+        "color": "#Y9TRC9",
         "count_link": ""
       },
       {
@@ -43,7 +43,7 @@
         "description": "",
         "image": "",
         "icon": "fas fa-smile",
-        "color": "",
+        "color": "#33TTYY",
         "count_link": ""
       }
     ]
