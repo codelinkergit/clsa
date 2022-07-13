@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "name": "Test Dailymotion Video Section",
+  "type": "video",
+  "design": "Video",
+  "content": [
+    {
+      "type": "dailymotion",
+      "value": "https://www.dailymotion.com/video/x7xnkux"
+    }
+  ]
+}

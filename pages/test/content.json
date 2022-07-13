@@ -1,0 +1,21 @@
+{
+  "type": "static_pages",
+  "design": "DefStaticPage",
+  "title": "Test",
+  "description": "Test sections.",
+  "featured_image": "",
+  "content": [
+    {
+      "type": "section",
+      "id": 9
+    },
+    {
+      "type": "section",
+      "id": 10
+    },
+    {
+      "type": "section",
+      "id": 11
+    }
+  ]
+}

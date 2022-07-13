@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "name": "Test Vimeo Video Section",
+  "type": "video",
+  "design": "Video",
+  "content": [
+    {
+      "type": "vimeo",
+      "value": "https://vimeo.com/289502328"
+    }
+  ]
+}

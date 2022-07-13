@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "name": "Test Video Section",
+  "type": "video",
+  "design": "Video",
+  "content": [
+    {
+      "type": "youtube",
+      "value": "https://www.youtube.com/watch?v=QJmKw33k0mA"
+    }
+  ]
+}
