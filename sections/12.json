@@ -1,0 +1,55 @@
+{
+  "id": 12,
+  "name": "Content Slider",
+  "type": "content_slider",
+  "design": "DefSlider",
+  "content": {
+    "title": "Projects Gallery",
+    "sub_title": "UI screenshots of our active projects.",
+    "paragraph": "",
+    "slides": [
+      {
+        "type": "manual",
+        "value": {
+          "image": "/slider/slider-1.webp",
+          "image_caption": "This is a testing slider image.",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "additional_text": "",
+          "image_link": "",
+          "button": {
+            "button_text": "Check out our services",
+            "button_link": "/services"
+          }
+        }
+      },
+      {
+        "type": "manual",
+        "value": {
+          "image": "/slider/slider-2.webp",
+          "image_caption": "This is a testing slider image.",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "additional_text": "",
+          "image_link": "",
+          "button": {
+            "button_text": "Learn more about us",
+            "button_link": "/about"
+          }
+        }
+      },
+      {
+        "type": "manual",
+        "value": {
+          "image": "/slider/slider-3.webp",
+          "image_caption": "This is a testing slider image.",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "additional_text": "",
+          "image_link": "",
+          "button": {
+            "button_text": "Contact Us",
+            "button_link": "/contact"
+          }
+        }
+      }
+    ]
+  }
+}

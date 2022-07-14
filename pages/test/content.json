@@ -7,6 +7,10 @@
   "content": [
     {
       "type": "section",
+      "id": 12
+    },
+    {
+      "type": "section",
       "id": 9
     },
     {
