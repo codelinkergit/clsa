@@ -1,0 +1,41 @@
+{
+  "id": 14,
+  "name": "Frequently Asked Questions",
+  "type": "faq_sections",
+  "design": "DefFAQ",
+  "content": {
+    "title": "Frequently Asked Questions",
+    "sub_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat esse quia provident, deserunt quae tempora minima ab laborum, omnis possimus qui rerum dignissimos, eos architecto.",
+    "paragraph": "",
+    "qas": [
+      {
+        "question": "Lorem ipsum dolor sit amet.",
+        "answer": {
+          "type": "text",
+          "value": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta neque odio, dolorum vero iure quam reiciendis adipisci ducimus unde impedit dignissimos perferendis nisi blanditiis, fuga doloribus quibusdam eligendi suscipit molestiae."
+        }
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+        "answer": {
+          "type": "text",
+          "value": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae rem in, dignissimos voluptate commodi amet hic officiis praesentium nemo repudiandae? Similique inventore optio iusto dicta magni, laboriosam architecto numquam perferendis ipsum. Nobis, ipsam est?"
+        }
+      },
+      {
+        "question": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, ratione?",
+        "answer": {
+          "type": "text",
+          "value": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit corrupti sunt aliquid quam ab tenetur, repellendus animi accusantium provident optio, ad blanditiis! Cumque, veniam facere."
+        }
+      },
+      {
+        "question": "Lorem ipsum dolor, sit amet consectetur",
+        "answer": {
+          "type": "text",
+          "value": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit corrupti sunt aliquid quam ab tenetur, repellendus animi accusantium provident optio, ad blanditiis! Cumque, veniam facere."
+        }
+      }
+    ]
+  }
+}
